@@ -1,0 +1,13 @@
+The first assignment is to simply get Scala installed and start playing around with the language. 
+The TA's will cover this in recitation tomorrow but it would be beneficial to have things ready to go.
+
+Please go here for Scala:
+
+http://www.scala-lang.org
+
+ALSO, 
+http://scalakoans.webfactional.com/
+
+http://www.scala-sbt.org/0.13/tutorial/
+
+http://www.artima.com/weblogs/viewpost.jsp?thread=328540

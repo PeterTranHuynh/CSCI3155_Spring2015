@@ -1,0 +1,12 @@
+const x = 69;
+const r = (function(x) { return 34; })(1) + x;
+jsy.print(r);
+
+const x = 13;
+const g = function(y) { return 2; };
+const h = function(x) { return g(3); };
+jsy.print(h(3));
+
+const x = 1337;
+const plus = function(x) { return function(y) { return 666 + 999; } };
+jsy.print(plus(101)(303));

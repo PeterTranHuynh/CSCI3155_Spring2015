@@ -1,0 +1,3 @@
+const c = {lol: 34, fun: function(x: number) { return x / 69 } }; c.fun(c.lol)
+
+
